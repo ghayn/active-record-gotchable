@@ -1,7 +1,7 @@
 # Active Record Gotchable
 [![](https://api.travis-ci.com/ghayn/active-record-gotchable.svg?branch=master)](https://travis-ci.com/ghayn/active-record-gotchable)
 
-A batch query helper for active record.
+A sql statements helper for batches of select queries on ActiveRecord.
 
 ## Usage
 - Only works for mysql, but I have a plan to make this gem to support postgres.
